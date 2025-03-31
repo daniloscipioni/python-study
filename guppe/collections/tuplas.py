@@ -136,3 +136,10 @@ nova = nova + outra
 
 print(nova)
 print(tupla)
+
+
+# Somando tuplas
+tupla_sum = (1, 3, 3, 6, 7)
+print(sum(tupla_sum))
+print(max(tupla_sum))
+print(min(tupla_sum))
